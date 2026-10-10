@@ -69,21 +69,38 @@ The app will automatically open in your web browser at http://localhost:8501
 
 ### 📸 Screenshots
 
-![Dashboard Overview](https://github.com/user-attachments/assets/c418a1dc-7a8c-40ea-90b8-ccc0bc661216)
+![Dashboard Overview]
+<img width="1913" height="801" alt="image" src="https://github.com/user-attachments/assets/dc5a23f3-fd49-46bb-ac4f-f69d7bf0c2f8" />
 
-![Expense Analytics](https://github.com/user-attachments/assets/c48ad35a-5bc0-4b7a-b0ba-5ebcde431eec)
 
-![Budget Recommendation](https://github.com/user-attachments/assets/19812d13-c838-489f-b56e-8e4a2359dc79)
+![Expense Analytics]
 
-![Category Breakdown](https://github.com/user-attachments/assets/0c5b9661-1f93-462f-ab42-b9ea1e56e807)
+<img width="1906" height="888" alt="image" src="https://github.com/user-attachments/assets/2836bdf2-89c8-4537-8087-9159c8cb08a5" />
 
-![Model Prediction Results](https://github.com/user-attachments/assets/31d58840-a54e-484b-9c2f-253be9e7d7aa)
+
+![Budget Recommendation]
+
+<img width="1913" height="755" alt="image" src="https://github.com/user-attachments/assets/51d4ce0b-7782-4db4-a0ba-245942bb04e7" />
+
+
+![Category Breakdown]
+
+<img width="1883" height="822" alt="image" src="https://github.com/user-attachments/assets/d6a4a483-d349-4e6a-988e-aafb94b92956" />
+
+
+![Model Prediction Results]
+
+<img width="1913" height="894" alt="image" src="https://github.com/user-attachments/assets/32b131c1-6712-4aaf-8a69-5f6abf9155f3" />
+
 
 ---
 
 ### 🎥 Video Demonstration
 
-▶️ **[Click here to watch the full application walkthrough video](https://github.com/user-attachments/assets/fe9ba3ac-d2fb-49b1-b0ed-07e19a379b67)**
+▶️ **[Click here to watch the full application walkthrough video]
+
+[3a50ab87-c5ad-44f5-81ee-07c131a2fc96.webm](https://github.com/user-attachments/assets/1667f049-1160-4f5f-85c5-d15670f1002e)
+
 
 ---
 
